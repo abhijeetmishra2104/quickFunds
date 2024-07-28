@@ -76,6 +76,7 @@ This project is one of the initial implementations of my mern stack journey. Thi
 * [![JavaScript][JavaScript.js]][JavaScript-url]
 * [![TailwindCSS][TailwindCSS.js]][TailwindCSS-url] 
 * [![Node.js][Node.js]][Nodejs-url] 
+* [![MongoDB][MongoDB.js]][MongoDB-url]
 * [![HTML5][HTML5.js]][HTML5-url] 
 * [![CSS3][CSS3.js]][CSS3-url]
 
@@ -281,3 +282,6 @@ Feel free to reach out to me for any queries, suggestions, or collaborations!
  [HTML5-url]: https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
   [CSS3.js]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
    [CSS3-url]: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+
+[MongoDB.js]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+[MongoDB-url]: https://www.mongodb.com/
